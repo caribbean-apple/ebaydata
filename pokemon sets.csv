@@ -1,0 +1,93 @@
+set name,cards in set,denominator,year of release,month of release,setNumHasLeadingZeroes
+Base Set,102,102,1999,1,FALSE
+Jungle,64,64,1999,6,FALSE
+Fossil,62,62,1999,10,FALSE
+Base Set 2,130,130,2000,2,FALSE
+Team Rocket,83,82,2000,4,FALSE
+Gym Heroes,132,132,2000,8,FALSE
+Gym Challenge,132,132,2000,10,FALSE
+Neo Genesis,111,111,2000,12,FALSE
+Neo Discovery,75,75,2001,6,FALSE
+Neo Revelation,66,64,2001,9,FALSE
+Neo Destiny,113,105,2002,2,FALSE
+Legendary Collection,110,110,2002,5,FALSE
+Expedition,165,165,2002,9,FALSE
+Aquapolis,182,147,2003,1,FALSE
+Skyridge,182,144,2003,5,FALSE
+EX Ruby & Sapphire,109,109,2003,6,FALSE
+EX Sandstorm,100,100,2003,9,FALSE
+EX Dragon,100,97,2003,11,FALSE
+EX Team Magma vs Team Aqua,97,95,2004,3,FALSE
+EX Hidden Legends,102,101,2004,6,FALSE
+EX FireRed & LeafGreen,116,112,2004,8,FALSE
+EX Team Rocket Returns,111,109,2004,11,FALSE
+EX Deoxys,108,107,2005,2,FALSE
+EX Emerald,107,106,2005,5,FALSE
+EX Unseen Forces,145,115,2005,8,FALSE
+EX Delta Species,114,113,2005,10,FALSE
+EX Legend Maker,92,92,2006,2,FALSE
+EX Holon Phantoms,111,110,2006,5,FALSE
+EX Crystal Guardians,100,100,2006,8,FALSE
+EX Dragon Frontiers,101,101,2006,11,FALSE
+EX Power Keepers,108,108,2007,2,FALSE
+Diamond & Pearl,130,130,2007,5,FALSE
+Mysterious Treasures,124,123,2007,8,FALSE
+Secret Wonders,132,132,2007,11,FALSE
+Great Encounters,106,106,2008,2,FALSE
+Majestic Dawn,100,100,2008,5,FALSE
+Legends Awakened,146,146,2008,8,FALSE
+Stormfront,106,100,2008,11,FALSE
+Platinum,133,127,2009,2,FALSE
+Rising Rivals,120,111,2009,5,FALSE
+Supreme Victors,153,147,2009,8,FALSE
+Arceus,111,99,2009,11,FALSE
+HeartGold & SoulSilver,124,123,2010,2,FALSE
+Unleashed,96,95,2010,5,FALSE
+Undaunted,91,90,2010,8,FALSE
+Triumphant,103,102,2010,11,FALSE
+Call of Legends,106,95,2011,2,FALSE
+Black & White,115,114,2011,5,FALSE
+Emerging Powers,98,98,2011,8,FALSE
+Noble Victories,102,101,2011,11,FALSE
+Next Destinies,103,99,2012,2,FALSE
+Dark Explorers,111,108,2012,5,FALSE
+Dragons Exalted,128,124,2012,8,FALSE
+Boundaries Crossed,153,149,2012,11,FALSE
+Plasma Storm,138,135,2013,2,FALSE
+Plasma Freeze,122,116,2013,5,FALSE
+Plasma Blast,105,101,2013,8,FALSE
+Legendary Treasures,140,113,2013,11,FALSE
+XY base,146,146,2014,2,FALSE
+Flashfire,109,106,2014,5,FALSE
+Furious Fists,113,111,2014,8,FALSE
+Phantom Forces,122,119,2014,11,FALSE
+Primal Clash,164,160,2015,2,FALSE
+Roaring Skies,110,108,2015,5,FALSE
+Ancient Origins,100,98,2015,8,FALSE
+BREAKthrough,164,162,2015,11,FALSE
+BREAKpoint,123,122,2016,2,FALSE
+Fates Collide,125,124,2016,5,FALSE
+Steam Siege,116,114,2016,8,FALSE
+Evolutions,113,108,2016,11,FALSE
+Sun & Moon,163,149,2017,2,FALSE
+Guardians Rising,169,145,2017,5,FALSE
+Burning Shadows,169,147,2017,8,FALSE
+Crimson Invasion,124,111,2017,11,FALSE
+Ultra Prism,173,156,2018,2,FALSE
+Forbidden Light,146,131,2018,5,FALSE
+Celestial Storm,183,168,2018,8,FALSE
+Lost Thunder,236,214,2018,11,FALSE
+Team Up,196,181,2019,2,FALSE
+Unbroken Bonds,234,214,2019,5,FALSE
+Unified Minds,258,236,2019,8,FALSE
+Hidden Fates,163,68,2019,8,FALSE
+Cosmic Eclipse,271,236,2019,11,FALSE
+Sword & Shield,216,202,2020,2,TRUE
+Rebel Clash,209,192,2020,5,TRUE
+Darkness Ablaze,201,189,2020,8,TRUE
+Champion's Path,80,73,2020,9,TRUE
+Vivid Voltage,203,185,2020,11,TRUE
+Shining Fates,195,72,2021,2,TRUE
+Battle Styles,183,163,2021,3,TRUE
+Chilling Reign,233,198,2021,6,TRUE
+Evolving Skies,237,203,2021,8,TRUE
