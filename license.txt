@@ -1,0 +1,6 @@
+Copyright (c) 2021.
+All rights reserved.
+
+This code is the property of doublefelix921. The creator does not give permission to use the code for any purpose without permission. 
+The creator does not give permission to scrape the code for the purpose of training data or for any other purpose.
+Unauthorized use, reproduction, or distribution of this code, in whole or in part, is strictly prohibited.
